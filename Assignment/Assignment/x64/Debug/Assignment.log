@@ -1,0 +1,54 @@
+﻿  Assignment_program.c
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(46,22): warning C4013: 'checkdateformat' undefined; assuming extern returning int
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(58,21): warning C4013: 'checkinandout' undefined; assuming extern returning int
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(62,25): warning C4013: 'calculatedays' undefined; assuming extern returning int
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(96,23): warning C4013: 'colSearch2' undefined; assuming extern returning int
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(137,22): warning C4013: 'nextmenu' undefined; assuming extern returning int
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(140,23): warning C4013: 'rooms_choise' undefined; assuming extern returning int
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(144,19): warning C4013: 'reciepts' undefined; assuming extern returning int
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(209,13): warning C4013: 'all_rooms' undefined; assuming extern returning int
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(213,16): warning C4013: 'filter_price' undefined; assuming extern returning int
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(203,8): warning C4101: 'c': unreferenced local variable
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(259,6): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(265,36): warning C4101: 'lines': unreferenced local variable
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(319,9): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(319,9): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(319,9): message : the missing variadic argument 1 is required by format string '%-12C'
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(320,31): warning C4013: 'linecount' undefined; assuming extern returning int
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(343,18): warning C4013: 'inp_check1' undefined; assuming extern returning int
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(357,40): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[30]'
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(357,33): warning C4024: 'date_check': different types for formal and actual parameter 1
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(357,50): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[30]'
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(357,42): warning C4024: 'date_check': different types for formal and actual parameter 2
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(364,19): warning C4013: 'avlb_check' undefined; assuming extern returning int
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(366,10): warning C4013: 'search' undefined; assuming extern returning int
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(614,13): warning C4013: 'DatDif' undefined; assuming extern returning int
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(619,1): warning C4142: 'DatDif': benign redefinition of type
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(621,14): warning C4013: 'rbdug' undefined; assuming extern returning int
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(624,16): warning C4013: 'Godn' undefined; assuming extern returning int
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(634,1): warning C4142: 'Godn': benign redefinition of type
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(639,14): warning C4013: 'IsLeapG' undefined; assuming extern returning int
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(645,1): warning C4142: 'rbdug': benign redefinition of type
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(656,1): warning C4142: 'IsLeapG': benign redefinition of type
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(673,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(720,15): warning C4013: 'change_menu' undefined; assuming extern returning int
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(762,22): warning C4013: 'colSearch' undefined; assuming extern returning int
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(757,19): warning C4101: 'cu2': unreferenced local variable
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(785,6): warning C4101: 'showed_lines': unreferenced local variable
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(841,19): warning C4047: '=': 'char' differs in levels of indirection from 'char [3]'
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(972,25): warning C4013: 'roomtoprice' undefined; assuming extern returning int
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(975,45): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(129): warning C4715: 'get_user_line': not all control paths return a value
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(123): warning C4172: returning address of local variable or temporary: line
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(106): warning C4172: returning address of local variable or temporary: outch
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(86): warning C4172: returning address of local variable or temporary: returnchar
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(252): warning C4716: 'all_rooms': must return a value
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(314): warning C4716: 'filter_price': must return a value
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(603): warning C4715: 'checkinandout': not all control paths return a value
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(845): warning C4715: 'colSearch': not all control paths return a value
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(833): warning C4715: 'search': not all control paths return a value
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(856): warning C4715: 'colSearch2': not all control paths return a value
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(942): warning C4716: 'reciepts': must return a value
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(961): warning C4715: 'roomtotype': not all control paths return a value
+C:\Users\momun\source\repos\Assignment\Assignment\Assignment_program.c(921): warning C4716: 'change_menu': must return a value
+  Assignment.vcxproj -> C:\Users\momun\source\repos\Assignment\x64\Debug\Assignment.exe

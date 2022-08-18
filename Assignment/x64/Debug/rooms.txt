@@ -1,0 +1,10 @@
+101:Superior:RM190:
+102:Deluxe:RM200:
+103:Studio:RM250:
+104:Executive Suite:RM400:
+105:Deluxe Suite:RM500:
+201:Superior:RM190:
+202:Deluxe:RM200:
+203:Studio:RM250:
+204:Executive Suite:RM400:
+205:Deluxe Suite:RM500:

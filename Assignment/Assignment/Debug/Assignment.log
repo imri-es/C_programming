@@ -1,0 +1,19 @@
+﻿  Assignment_program.c
+C:\Users\imran\source\repos\Assignment\Assignment\Assignment_program.c(11,12): warning C4013: 'write_info' undefined; assuming extern returning int
+C:\Users\imran\source\repos\Assignment\Assignment\Assignment_program.c(13,21): warning C4013: 'nextmenu' undefined; assuming extern returning int
+C:\Users\imran\source\repos\Assignment\Assignment\Assignment_program.c(16,20): warning C4013: 'rooms_menu' undefined; assuming extern returning int
+C:\Users\imran\source\repos\Assignment\Assignment\Assignment_program.c(38,23): warning C4013: 'rooms_choise' undefined; assuming extern returning int
+C:\Users\imran\source\repos\Assignment\Assignment\Assignment_program.c(50,19): warning C4013: 'all_rooms' undefined; assuming extern returning int
+C:\Users\imran\source\repos\Assignment\Assignment\Assignment_program.c(51,22): warning C4013: 'filter_price' undefined; assuming extern returning int
+C:\Users\imran\source\repos\Assignment\Assignment\Assignment_program.c(45,7): warning C4101: 'c': unreferenced local variable
+C:\Users\imran\source\repos\Assignment\Assignment\Assignment_program.c(190,19): warning C4013: 'log_ining' undefined; assuming extern returning int
+C:\Users\imran\source\repos\Assignment\Assignment\Assignment_program.c(203,16): warning C4047: '==': 'int' differs in levels of indirection from 'char [2]'
+C:\Users\imran\source\repos\Assignment\Assignment\Assignment_program.c(204,3): warning C4550: expression evaluates to a function which is missing an argument list
+C:\Users\imran\source\repos\Assignment\Assignment\Assignment_program.c(207,16): warning C4047: '==': 'int' differs in levels of indirection from 'char [2]'
+C:\Users\imran\source\repos\Assignment\Assignment\Assignment_program.c(210,21): warning C4047: '==': 'int' differs in levels of indirection from 'char [2]'
+C:\Users\imran\source\repos\Assignment\Assignment\Assignment_program.c(211,3): warning C4550: expression evaluates to a function which is missing an argument list
+C:\Users\imran\source\repos\Assignment\Assignment\Assignment_program.c(40): warning C4716: 'rooms_menu': must return a value
+C:\Users\imran\source\repos\Assignment\Assignment\Assignment_program.c(122): warning C4716: 'write_info': must return a value
+C:\Users\imran\source\repos\Assignment\Assignment\Assignment_program.c(111): warning C4716: 'all_rooms': must return a value
+C:\Users\imran\source\repos\Assignment\Assignment\Assignment_program.c(185): warning C4715: 'filter_price': not all control paths return a value
+  Assignment.vcxproj -> C:\Users\imran\source\repos\Assignment\Debug\Assignment.exe
